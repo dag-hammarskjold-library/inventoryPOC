@@ -23,7 +23,7 @@ MongoAlchemy==0.19
 pycrypto==2.6.1
 pylint==1.9.3
 pymongo==2.8.1
-pyxdg==0.25
+pyxdg==0.26
 SecretStorage==2.3.1
 singledispatch==3.4.0.3
 six==1.12.0
